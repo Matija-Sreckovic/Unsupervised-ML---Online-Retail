@@ -11,3 +11,7 @@ For KMeans, we conclude by the elbow method that K=3 is the best parameter, and 
 
 DBSCAN, on the other hand, performs very badly, since the data is too evenly spread out to create meaningful clusters by this method. I was not able to extract any useful information from it.
 Anyone who spent a non-trivial amount of money is considered an outlier.
+
+The Streamlit dashboard is available at https://onlineretailunsupervisedml.streamlit.app/.
+
+To run the Dash Plotly dashboard, download the files "Online Retail.xlsx" and "retail_dashboard.py", open your terminal and type "python retail_dashboard.py". 
