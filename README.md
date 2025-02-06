@@ -1,4 +1,4 @@
-I got the dataset and the idea from https://machinelearningmastery.com/5-real-world-machine-learning-projects-you-can-build-this-weekend/?ref=dailydev.
+I got the dataset from https://archive.ics.uci.edu/dataset/352/online+retail and the idea from https://machinelearningmastery.com/5-real-world-machine-learning-projects-you-can-build-this-weekend/?ref=dailydev.
 
 In this project, I use KMeans clustering and DBSCAN to draw classify customers based on the order logs from an online retail website in 2011.
 
